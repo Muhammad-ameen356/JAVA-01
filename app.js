@@ -98,7 +98,7 @@ alert("I am trying to learn form the book " + book)
 
 // Question (08) //
 
-document.write("Yah! I can write HTML through Javascript")
+document.write("Yah! I will write HTML through Javascript")
 
 
 
@@ -141,11 +141,11 @@ document.write('Data type of my declared variable is ' + typeof(birthYear))
 
 // Question (04) //
 
-var name = "Muhammad Ameen"
-var product = "Shirt"
-var quantity = 3
-var store = "ABCStore.com"
-alert(name + " ordered " + quantity + " " + product + ' from ' + store)
+var name = "Muhammad Ameen";
+var product = "pant";
+var quantity = 1;
+var store = "XYZStore.com";
+alert(name + " ordered " + quantity + " " + product + ' from ' + store);
 
 
 
